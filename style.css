@@ -130,3 +130,11 @@ a {
   
   }
 
+  hr {
+    width: 5%;
+    margin: 0 auto;
+    height: 10px;
+    background-color: orange;
+    border: none;
+    }
+
