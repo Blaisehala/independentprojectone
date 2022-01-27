@@ -2,80 +2,122 @@
   box-sizing: content-box;
   padding: 0;
   margin: 0;
-  }
+}
 
-  .firstnv {
-    background-color: yellowgreen;
-    
-    text-align: left;
-    height: 1000px;
-    }
+.firstnv {
+  background-color: yellowgreen;
 
-  /*navigation*/
+  text-align: left;
+  height: 1000px;
+}
+
+/*navigation*/
 /* remove bullet, padding and margin*/
 /*display: inline; - By default, <li> elements are block elements. Here, we remove the line breaks before and after each list item, to display them on one line*/
 
 ul {
   background-color: rd;
-  
+
   list-style-type: none;
   margin: 50px;
   padding: 20px;
   padding-right: 200px;
-  
+
   float: right;
-  }
-  
-  a {
+}
+
+a {
   display: inline;
   padding: 40px;
   color: black;
   text-decoration: none;
-  }
-  
-  .two {
+}
+
+.two {
   background-color: blue;
-  
-  
+
+
   float: right;
   text-align: center;
   padding-top: 14px;
   padding-right: 30 px;
   padding-left: 30px;
   font-size: 24px;
-  }
+}
 
-  .splash {
-    position: absolute;
-    right: 300px;
-    top: 150px;
-    }
+.splash {
+  position: absolute;
+  right: 300px;
+  top: 150px;
+}
 
-    .firsttext {
+.firsttext {
 
-      padding-left: 10%;
-      padding-top: 200px;
-      
-      }
-      
-      .firsttext h2{
-      font-size: 70px;
-      }
-      
-      .firsttext p{
-      font-size: 30px;
-      font-weight:500;
-      color: rgb(70, 69, 67);
-      }
+  padding-left: 10%;
+  padding-top: 200px;
 
-      #ordernow {
-        background-color: orange;
-        padding: 20px;
-        margin: 50px;
-        border-radius: 100px;
-        border: none;
-        color: white;
-        border-radius: 30px 30px 0 30px;
-      }
-  
-      
+}
+
+.firsttext h2 {
+  font-size: 70px;
+}
+
+.firsttext p {
+  font-size: 30px;
+  font-weight: 500;
+  color: rgb(70, 69, 67);
+}
+
+#ordernow {
+  background-color: orange;
+  padding: 20px;
+  margin: 50px;
+  border: none;
+  color: white;
+  border-radius: 30px 30px 0 30px;
+}
+
+.sectiontwo {
+  background-color: goldenrod;
+  height: 600px;
+  padding-top: 200px;
+}
+
+.card1 {
+  height: 250px;
+  width: 350px;
+  border-radius: 10px;
+  border-style: outset;
+  position: absolute;
+  left: 250px;
+  top: px;
+  padding-top: 0px;
+  text-align: center;
+  float: inline-end;
+  border: solid 1px gray;
+}
+
+.card2 {
+  height: 350px;
+  width: 350px;
+  border-radius: 10px;
+  border-style: outset;
+  position: absolute;
+  left: 40%;
+  top: 1030px;
+  text-align: center;
+  border: solid 1px grey;
+}
+
+.card3{
+  height: 259px;
+  width: 350px;
+  border-radius: 10px;
+  border-style: outset;
+  position: absolute;
+  right: 250px;
+  text-align: center;
+  border: solid 1px gray;
+
+}
+
