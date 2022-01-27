@@ -44,6 +44,29 @@ ul {
   padding-left: 30px;
   font-size: 24px;
   }
+
+  .splash {
+    position: absolute;
+    right: 300px;
+    top: 150px;
+    }
+
+    .firsttext {
+
+      padding-left: 10%;
+      padding-top: 200px;
+      
+      }
+      
+      .firsttext h2{
+      font-size: 70px;
+      }
+      
+      .firsttext p{
+      font-size: 30px;
+      font-weight:500;
+      color: rgb(70, 69, 67);
+      }
   
       
     
