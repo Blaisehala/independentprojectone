@@ -1,0 +1,49 @@
+* {
+  box-sizing: content-box;
+  padding: 0;
+  margin: 0;
+  }
+
+  .firstnv {
+    background-color: yellowgreen;
+    
+    text-align: left;
+    height: 1000px;
+    }
+
+  /*navigation*/
+/* remove bullet, padding and margin*/
+/*display: inline; - By default, <li> elements are block elements. Here, we remove the line breaks before and after each list item, to display them on one line*/
+
+ul {
+  background-color: rd;
+  
+  list-style-type: none;
+  margin: 50px;
+  padding: 20px;
+  padding-right: 200px;
+  
+  float: right;
+  }
+  
+  a {
+  display: inline;
+  padding: 40px;
+  color: black;
+  text-decoration: none;
+  }
+  
+  .two {
+  background-color: blue;
+  
+  
+  float: right;
+  text-align: center;
+  padding-top: 14px;
+  padding-right: 30 px;
+  padding-left: 30px;
+  font-size: 24px;
+  }
+  
+      
+    
