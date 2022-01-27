@@ -184,7 +184,7 @@ hr {
   text-align: center;
   position: absolute;
   left: 200px;
-  top: 2350px;
+  top: 2450px;
   border-radius: 25px;
   box-shadow: 5px 5px 15px 15px whitesmoke;
 }
@@ -197,7 +197,7 @@ hr {
   text-align: center;
   position: absolute;
   left: 720px;
-  top: 2350px;
+  top: 2450px;
   border-radius: 25px;
   box-shadow: 5px 5px 15px 15px whitesmoke;
 }
@@ -210,7 +210,41 @@ hr {
   text-align: center;
   position: absolute;
   right: 200px;
-  top: 2350px;
+  top: 2450px;
   border-radius: 25px;
   box-shadow: 5px 5px 15px 15px whitesmoke;
+}
+
+/*DOUBLE DECKER SECTION*/
+.DD {
+  background-color: blue;
+  height: 700px;
+}
+
+.double-check1 {
+  position: absolute;
+  right: 390px;
+  top: 3000px
+}
+
+.imagedouble {
+  position: absolute;
+  right: 280px;
+}
+
+.ddtext {
+  position: absolute;
+  top: 3100px;
+  left: 10%;
+}
+
+.ddtext h1 {
+  font-size: 70px;
+
+}
+
+.ddtext p {
+  font-size: 30px;
+  font-weight: 500;
+  color: rgb(70, 69, 67);
 }
