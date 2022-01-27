@@ -136,6 +136,35 @@ hr {
   border: none;
 }
 
+
+.titleproduct{
+  color: rgb(70, 17, 70);
+  }
+  .cardfooter{
+  padding: 25px 10px 5px;
+  border-top: 1px ;
+  }
+  
+  .cardfooter .beiburger{
+  float: left;
+  
+  }
+  .move{
+  background-color: #E1EBE6;
+  height: 35px; 
+  border-radius: 10px;
+  
+  }
+  .cardfooter .move{
+  float: right;
+  }
+  
+ /* .move .carttext{
+  text-align: center;
+  }*/
+  
+
+
 .pricecard1 {
   font-size: 20px;
   width: 400px;
