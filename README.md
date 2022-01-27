@@ -16,16 +16,17 @@ This is my First Independent project at Moringa School 26.01.2022
 
 ## Description
 This is my first independent project at Moringa school which is a simple one page website or landing page that helps and/or welcomes visitors or consumers to a call of action in terms of purchasing.
-
+[Go Back to the top](#description)
 
 ## Installation
 No installation required
+[Go Back to the top](#Installation)
 
-### Requirements
+## Requirements
 Internet access and a laptop or mobile phone
 
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#technology-used)
 ## Technology Used
 * This website was created using simple HTML 5 for the body structure and CSS 3 for styling.
 
@@ -57,10 +58,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#licence)
 
 ## Authors Info
 
 Linked - [Blaise Hala](https://www.linkedin.com/in/blaise-hala-682aa511a/)
 
-[Go Back to the top](#portfolio)
+
