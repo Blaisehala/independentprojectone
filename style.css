@@ -38,6 +38,11 @@ a {
   text-decoration: none;
 }
 
+.lili:hover{text-decoration: underline  orange;
+  
+
+}
+
 .two {
 
   float: right;
@@ -50,8 +55,9 @@ a {
 
 .splash {
   position: absolute;
-  right: 300px;
+  right: 330px;
   top: 150px;
+
 }
 
 .firsttext {
