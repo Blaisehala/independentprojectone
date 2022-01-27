@@ -5,7 +5,7 @@
 }
 
 .firstnv {
-  background-color: yellowgreen;
+  
 
   text-align: left;
   height: 1000px;
@@ -34,8 +34,6 @@ a {
 }
 
 .two {
-  background-color: blue;
-
 
   float: right;
   text-align: center;
@@ -78,7 +76,7 @@ a {
 }
 
 .sectiontwo {
-  background-color: goldenrod;
+  background-color: #f6fffa;
   height: 600px;
   padding-top: 200px;
 }
@@ -104,7 +102,7 @@ a {
   border-style: outset;
   position: absolute;
   left: 40%;
-  top: 1030px;
+  top: 1160px;
   text-align: center;
   border: solid 1px grey;
 }
@@ -224,7 +222,7 @@ hr {
 .double-check1 {
   position: absolute;
   right: 390px;
-  top: 3000px
+  top: 3090px
 }
 
 .imagedouble {
