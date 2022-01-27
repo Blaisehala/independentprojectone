@@ -4,9 +4,14 @@
   margin: 0;
 }
 
+.one{
+    background: linear-gradient(105deg, #ffffff 57%, #ffed4b 40%);
+
+    
+}
+
 .firstnv {
   
-
   text-align: left;
   height: 1000px;
 }
@@ -288,7 +293,7 @@ hr {
   border: outset;}
 
 
-  
+
   
 /*DOUBLE DECKER SECTION*/
 .DD {
