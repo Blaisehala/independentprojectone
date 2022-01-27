@@ -94,6 +94,9 @@ a {
   float: inline-end;
   border: solid 1px gray;
 }
+.card1:hover{
+  transform: scale(1.05);
+  }
 
 .card2 {
   height: 350px;
@@ -107,6 +110,11 @@ a {
   border: solid 1px grey;
 }
 
+
+.card2:hover{
+  transform: scale(1.05);
+  }
+
 .card3 {
   height: 259px;
   width: 350px;
@@ -118,6 +126,12 @@ a {
   border: solid 1px gray;
 
 }
+.card3:hover{
+  transform: scale(1.05);
+  }
+
+
+
 
 /*Pricing cards*/
 .section3 {
@@ -177,6 +191,12 @@ hr {
   box-shadow: 5px 5px 15px 15px whitesmoke;
 }
 
+.pricecard1:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);
+  border: outset;}
+  
+
 
 .pricecard2 {
 
@@ -192,6 +212,12 @@ hr {
 
 }
 
+.pricecard2:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);
+  border: outset;}
+  
+
 .pricecard3 {
   font-size: 20px;
   width: 400px;
@@ -201,6 +227,11 @@ hr {
   border-radius: 25px;
   box-shadow: 5px 5px 15px 15px whitesmoke;
 }
+.pricecard3:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);
+  border: outset;}
+  
 
 
 .pricecard4 {
@@ -215,6 +246,11 @@ hr {
   border-radius: 25px;
   box-shadow: 5px 5px 15px 15px whitesmoke;
 }
+.pricecard4:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);
+  border: outset;}
+  
 
 .pricecard5 {
   font-size: 20px;
@@ -228,6 +264,11 @@ hr {
   border-radius: 25px;
   box-shadow: 5px 5px 15px 15px whitesmoke;
 }
+.pricecard5:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);
+  border: outset;}
+  
 
 .pricecard6 {
   font-size: 20px;
@@ -241,7 +282,14 @@ hr {
   border-radius: 25px;
   box-shadow: 5px 5px 15px 15px whitesmoke;
 }
+.pricecard6:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);
+  border: outset;}
 
+
+  
+  
 /*DOUBLE DECKER SECTION*/
 .DD {
   background-color: #f6fffa;
