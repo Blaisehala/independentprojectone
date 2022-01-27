@@ -20,13 +20,12 @@ This is my first independent project at Moringa school which is a simple one pag
 
 ## Installation
 No installation required
-[Go Back to the top](#Installation)
+
 
 ## Requirements
 Internet access and a laptop or mobile phone
 
 
-[Go Back to the top](#technology-used)
 ## Technology Used
 * This website was created using simple HTML 5 for the body structure and CSS 3 for styling.
 
@@ -62,6 +61,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Linked - [Blaise Hala](https://www.linkedin.com/in/blaise-hala-682aa511a/)
+LinkedIn- [Blaise Hala](https://www.linkedin.com/in/blaise-hala-682aa511a/)
 
 
