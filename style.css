@@ -291,3 +291,78 @@ hr {
   font-size: 10px;
 }
 
+
+/*SITEMAP*/
+
+.burgericon {
+  float: left;
+  /* text-align: middle; */
+
+}
+
+.con {
+  font-size: 30px;
+  font-weight: 1000;
+}
+
+.subscribe {
+  float: left;
+  position: absolute;
+  right: 7%;
+  width: 40%;
+  text-align: center;
+}
+
+
+.calc{
+
+  width: 15%;
+  position: absolute;
+  left: 30%;
+  
+  }
+
+  .sitemap {
+    background-color: #E1EBE6;
+    list-style-type: none;
+    height: 300px
+  }
+  
+  input{
+    height: 35px;
+    width: 280px;
+    border: solid 1px gray;
+    
+    position:relative;
+    display: inline-block;
+    box-sizing: border-box;
+    }
+
+    #sb{
+      height: 35px;
+      background-color: orange;
+      color: white;
+      border:solid 1px gray;
+      margin-left: 1px;
+    }
+    
+ /* .sb{
+  padding: 20px;
+  color: white;
+  background-color: orange;
+  border: transparent;
+  }
+  
+
+
+/*Footer section */
+.hala {
+  height: 30px;
+  padding: 10px;
+}
+
+
+
+.blaise {
+  float: right
+}
